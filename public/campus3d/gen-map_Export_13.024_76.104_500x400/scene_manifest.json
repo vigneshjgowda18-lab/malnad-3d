@@ -1,0 +1,222 @@
+{
+  "generator": "gen-map",
+  "generator_version": "run33 · 82b9819",
+  "preset": "A",
+  "presets": [
+    "A"
+  ],
+  "crs": {
+    "proj4": "+proj=tmerc +lat_0=13.0239 +lon_0=76.10352 +k=1 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs",
+    "origin_lat": 13.0239,
+    "origin_lon": 76.10352,
+    "axis": "glTF y-up: x=east, y=up(z), z=-north",
+    "units": "m"
+  },
+  "z_offset": 0,
+  "area_m": {
+    "width": 500,
+    "height": 400
+  },
+  "sector_m": 2000,
+  "sectors": [
+    {
+      "col": 0,
+      "row": 0,
+      "bounds_m": [
+        -250,
+        -200,
+        250,
+        200
+      ],
+      "files": [
+        "Meshes_GLB/Tile_X0_Y0.glb",
+        "Meshes_GLB/Tile_X0_Y0.features.json",
+        "Instances/Tile_X0_Y0.trees.json"
+      ],
+      "glb": "Meshes_GLB/Tile_X0_Y0.glb",
+      "features": "Meshes_GLB/Tile_X0_Y0.features.json",
+      "osm_timestamp": "2026-10-30T18:05:34Z",
+      "stats": {
+        "buildings": 21,
+        "roads": 25,
+        "waterBodies": 0,
+        "waterways": 0,
+        "trees": 147,
+        "terrainTriangles": 2860
+      }
+    }
+  ],
+  "dem": {
+    "name": "Copernicus GLO-30",
+    "zoom": 0,
+    "tiles": 1,
+    "attribution": "Elevation: Contains modified Copernicus data (2021), Copernicus DEM GLO-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved",
+    "resolution_m": 4
+  },
+  "heightmap": {
+    "file": "Heightmaps/Terrain_Heightmap_16bit.png",
+    "size": 1009,
+    "z_min_m": 965.3301391601562,
+    "z_max_m": 983.5592041015625,
+    "orientation": "row 0 = north",
+    "note": "Area is stretched to a square image; use extent_m for X/Y scale",
+    "unreal": {
+      "scale_z_percent": 3.560364246368408,
+      "location_z_m": 974.4448107097099,
+      "scale_xy_cm_per_quad": [
+        49.60317460317461,
+        39.682539682539684
+      ]
+    },
+    "unity": {
+      "file": "Heightmaps/Terrain_Heightmap_16bit_unity.raw",
+      "size": 1025,
+      "byte_order": "little-endian",
+      "depth_bits": 16,
+      "terrain_size_m": [
+        500,
+        18.22906494140625,
+        400
+      ],
+      "flip_vertically": false
+    }
+  },
+  "splatmaps": {
+    "size": 1009,
+    "layers": {
+      "road": "Heightmaps/Splat_road.png",
+      "water": "Heightmaps/Splat_water.png",
+      "green": "Heightmaps/Splat_green.png",
+      "built_up": "Heightmaps/Splat_built_up.png"
+    }
+  },
+  "instances": {
+    "trees": {
+      "files": "Instances/Tile_X#_Y#.trees.json",
+      "forest_scatter_spacing_m": 16,
+      "note": "OSM natural=tree nodes plus optional scatter inside forest/wood polygons; positions in the local CRS"
+    }
+  },
+  "tunnels_skipped_osm_ids": [],
+  "extras": {
+    "shellsHidden": 0,
+    "options": {
+      "treeModels": true,
+      "shrubs": true,
+      "hedges": true,
+      "fences": true,
+      "walls": true,
+      "lamps": true,
+      "signals": true,
+      "signs": true,
+      "busStops": true,
+      "benches": true,
+      "bins": true,
+      "crossings": true,
+      "markings": true,
+      "kerbs": true,
+      "parking": true,
+      "plazas": true,
+      "buildingParts": true,
+      "buildingColors": true,
+      "towers": true,
+      "powerLines": true,
+      "railMasts": true,
+      "platforms": true,
+      "shelters": true,
+      "tunnels": true,
+      "layerJunctions": true,
+      "pitches": true,
+      "playgrounds": true,
+      "pools": true,
+      "stadiums": true,
+      "tracks": true,
+      "golf": true,
+      "beaches": true,
+      "playEquipment": true,
+      "ski": true,
+      "memorials": true,
+      "shrines": true,
+      "windmills": true,
+      "lighthouses": true,
+      "churches": true,
+      "castles": true,
+      "orchards": true,
+      "vineyards": true,
+      "farmland": true,
+      "cemeteries": true,
+      "weirs": true,
+      "piers": true,
+      "cliffs": true,
+      "rocks": true,
+      "stones": true,
+      "dunes": true
+    },
+    "counts": {
+      "treeModels": 147,
+      "treeModelsSkipped": 0,
+      "shrubs": 0,
+      "hedges": 0,
+      "fences": 0,
+      "walls": 0,
+      "furniture": 1,
+      "crossings": 0,
+      "parkings": 0,
+      "plazas": 0,
+      "structures": 1,
+      "pitchs": 2,
+      "pools": 1
+    },
+    "note": "tree models are capped at 20000 per sector (treeModelsSkipped); every tree stays in Instances/*.trees.json"
+  },
+  "materials": [
+    "OSM_Terrain",
+    "OSM_Building_Wall",
+    "OSM_Building_Roof",
+    "OSM_Road",
+    "OSM_Path",
+    "OSM_Rail",
+    "OSM_Bridge",
+    "OSM_Water",
+    "OSM_Tree_Trunk",
+    "OSM_Tree_Leaves",
+    "OSM_Tree_Leaves_Conifer",
+    "OSM_Tree_Leaves_Poplar",
+    "OSM_Tree_Leaves_Bush",
+    "OSM_Hedge",
+    "OSM_Fence",
+    "OSM_Barrier_Wall",
+    "OSM_Metal",
+    "OSM_Sign",
+    "OSM_Wood",
+    "OSM_Bin",
+    "OSM_Marking",
+    "OSM_Curb",
+    "OSM_Parking",
+    "OSM_Plaza",
+    "OSM_Building_Roof_Plain",
+    "OSM_Tower",
+    "OSM_Wire",
+    "OSM_Tunnel",
+    "OSM_Concrete",
+    "OSM_Pitch_Grass",
+    "OSM_Pitch_Court",
+    "OSM_Playground",
+    "OSM_Pool",
+    "OSM_Field",
+    "OSM_Stone",
+    "OSM_Platform",
+    "OSM_Rock",
+    "OSM_Sand",
+    "OSM_Track",
+    "OSM_Golf_Green",
+    "OSM_Golf_Fairway",
+    "OSM_Snow"
+  ],
+  "timings": {
+    "osm_s": 29.8,
+    "dem_s": 4.2,
+    "generate_s": 0.6,
+    "total_s": 34.6
+  }
+}

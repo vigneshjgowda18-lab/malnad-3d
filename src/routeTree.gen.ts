@@ -10,11 +10,17 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as Campus3dRouteImport } from './routes/campus3d'
 import { Route as DashboardRoleRouteImport } from './routes/dashboard.$role'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Campus3dRoute = Campus3dRouteImport.update({
+  id: '/campus3d',
+  path: '/campus3d',
   getParentRoute: () => rootRouteImport,
 } as any)
 const DashboardRoleRoute = DashboardRoleRouteImport.update({
@@ -25,27 +31,31 @@ const DashboardRoleRoute = DashboardRoleRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/campus3d': typeof Campus3dRoute
   '/dashboard/$role': typeof DashboardRoleRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/campus3d': typeof Campus3dRoute
   '/dashboard/$role': typeof DashboardRoleRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/campus3d': typeof Campus3dRoute
   '/dashboard/$role': typeof DashboardRoleRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/dashboard/$role'
+  fullPaths: '/' | '/campus3d' | '/dashboard/$role'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/dashboard/$role'
-  id: '__root__' | '/' | '/dashboard/$role'
+  to: '/' | '/campus3d' | '/dashboard/$role'
+  id: '__root__' | '/' | '/campus3d' | '/dashboard/$role'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  Campus3dRoute: typeof Campus3dRoute
   DashboardRoleRoute: typeof DashboardRoleRoute
 }
 
@@ -56,6 +66,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/campus3d': {
+      id: '/campus3d'
+      path: '/campus3d'
+      fullPath: '/campus3d'
+      preLoaderRoute: typeof Campus3dRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/dashboard/$role': {
@@ -70,6 +87,7 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  Campus3dRoute: Campus3dRoute,
   DashboardRoleRoute: DashboardRoleRoute,
 }
 export const routeTree = rootRouteImport

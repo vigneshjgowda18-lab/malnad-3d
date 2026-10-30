@@ -1,0 +1,1737 @@
+{
+ "sector": {
+  "col": 0,
+  "row": 0
+ },
+ "features": [
+  {
+   "fid": 1,
+   "osm_id": 293811131,
+   "type": "building",
+   "height": 8,
+   "z_min": 968.1045502929687,
+   "z_max": 978.1045502929687
+  },
+  {
+   "fid": 2,
+   "osm_id": 293811133,
+   "type": "building",
+   "height": 8,
+   "z_min": 972.6345024529418,
+   "z_max": 982.6345024529418
+  },
+  {
+   "fid": 3,
+   "osm_id": 293811134,
+   "type": "building",
+   "height": 8,
+   "z_min": 973.1396147851729,
+   "z_max": 983.1396147851729
+  },
+  {
+   "fid": 4,
+   "osm_id": 293811136,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.1613583262986,
+   "z_max": 984.1613583262986
+  },
+  {
+   "fid": 5,
+   "osm_id": 293811139,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.628990969414,
+   "z_max": 984.628990969414
+  },
+  {
+   "fid": 6,
+   "osm_id": 293811140,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.2120955678636,
+   "z_max": 984.2120955678636
+  },
+  {
+   "fid": 7,
+   "osm_id": 327711587,
+   "type": "building",
+   "name": "Annapoornesvari Marriage Hall",
+   "height": 8,
+   "z_min": 971.0696840162811,
+   "z_max": 981.0696840162811
+  },
+  {
+   "fid": 8,
+   "osm_id": 334881892,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.2111665498733,
+   "z_max": 984.2111665498733
+  },
+  {
+   "fid": 9,
+   "osm_id": 334881905,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.3237640566712,
+   "z_max": 984.3237640566712
+  },
+  {
+   "fid": 10,
+   "osm_id": 335601589,
+   "type": "building",
+   "name": "Canara Bank",
+   "height": 8,
+   "z_min": 971.1624600413475,
+   "z_max": 981.1624600413475
+  },
+  {
+   "fid": 11,
+   "osm_id": 335601599,
+   "type": "building",
+   "height": 8,
+   "z_min": 971.7756674070497,
+   "z_max": 981.7756674070497
+  },
+  {
+   "fid": 12,
+   "osm_id": 335601612,
+   "type": "building",
+   "height": 8,
+   "z_min": 972.9328812334262,
+   "z_max": 982.9328812334262
+  },
+  {
+   "fid": 13,
+   "osm_id": 335601647,
+   "type": "building",
+   "height": 8,
+   "z_min": 964.202694519043,
+   "z_max": 974.202694519043
+  },
+  {
+   "fid": 14,
+   "osm_id": 361608310,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.8561312456197,
+   "z_max": 984.8561312456197
+  },
+  {
+   "fid": 15,
+   "osm_id": 382398057,
+   "type": "building",
+   "height": 8,
+   "z_min": 974.0237915556081,
+   "z_max": 984.0237915556081
+  },
+  {
+   "fid": 16,
+   "osm_id": 1202485725,
+   "type": "building",
+   "height": 8,
+   "z_min": 971.3847995092194,
+   "z_max": 981.3847995092194
+  },
+  {
+   "fid": 17,
+   "osm_id": 1207254228,
+   "type": "building",
+   "height": 8,
+   "z_min": 971.5850420574748,
+   "z_max": 981.5850420574748
+  },
+  {
+   "fid": 18,
+   "osm_id": 1208484411,
+   "type": "building",
+   "height": 8,
+   "z_min": 973.0462187418128,
+   "z_max": 983.0462187418128
+  },
+  {
+   "fid": 19,
+   "osm_id": 1208484412,
+   "type": "building",
+   "height": 8,
+   "z_min": 969.5560746958878,
+   "z_max": 979.5560746958878
+  },
+  {
+   "fid": 20,
+   "osm_id": 1211751384,
+   "type": "building",
+   "height": 8,
+   "z_min": 972.5403850868624,
+   "z_max": 982.5403850868624
+  },
+  {
+   "fid": 21,
+   "osm_id": 1219059797,
+   "type": "building",
+   "height": 8,
+   "z_min": 969.0776116808659,
+   "z_max": 979.0776116808659
+  },
+  {
+   "fid": 22,
+   "osm_id": 206290544,
+   "type": "road",
+   "name": "Sri Vidyaganapathi Road",
+   "highway": "residential",
+   "z_min": 970.0413145560091,
+   "z_max": 974.9691464239554
+  },
+  {
+   "fid": 23,
+   "osm_id": 206295891,
+   "type": "road",
+   "highway": "residential",
+   "z_min": 970.669987073911,
+   "z_max": 971.4500123642766
+  },
+  {
+   "fid": 24,
+   "osm_id": 293405929,
+   "type": "road",
+   "highway": "residential",
+   "z_min": 975.5423633014518,
+   "z_max": 977.5891569148171
+  },
+  {
+   "fid": 25,
+   "osm_id": 293405932,
+   "type": "road",
+   "highway": "residential",
+   "z_min": 970.4230580833005,
+   "z_max": 972.3575138751111
+  },
+  {
+   "fid": 26,
+   "osm_id": 293405933,
+   "type": "road",
+   "highway": "residential",
+   "z_min": 970.6559147061062,
+   "z_max": 971.711848799376
+  },
+  {
+   "fid": 27,
+   "osm_id": 321970418,
+   "type": "road",
+   "name": "Mahatma Gandhi Road",
+   "highway": "tertiary",
+   "z_min": 966.3479780310962,
+   "z_max": 969.9470162941012
+  },
+  {
+   "fid": 28,
+   "osm_id": 321970421,
+   "type": "road",
+   "name": "Mahatma Gandhi Road",
+   "highway": "tertiary",
+   "z_min": 966.4713358176613,
+   "z_max": 971.2970610010796
+  },
+  {
+   "fid": 29,
+   "osm_id": 361608322,
+   "type": "road",
+   "highway": "service",
+   "z_min": 970.1424829571538,
+   "z_max": 971.0553281976651
+  },
+  {
+   "fid": 30,
+   "osm_id": 800962386,
+   "type": "road",
+   "highway": "residential",
+   "z_min": 977.0259932172933,
+   "z_max": 978.484738853915
+  },
+  {
+   "fid": 31,
+   "osm_id": 801478370,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.7809589707964,
+   "z_max": 977.6349547528177
+  },
+  {
+   "fid": 32,
+   "osm_id": 801478371,
+   "type": "road",
+   "highway": "service",
+   "z_min": 966.6906234132343,
+   "z_max": 977.566432926187
+  },
+  {
+   "fid": 33,
+   "osm_id": 801478373,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.9898127724288,
+   "z_max": 978.6260479200837
+  },
+  {
+   "fid": 34,
+   "osm_id": 801478374,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.6413651933022,
+   "z_max": 976.5964063860068
+  },
+  {
+   "fid": 35,
+   "osm_id": 1046839106,
+   "type": "road",
+   "highway": "service",
+   "z_min": 977.2881921564232,
+   "z_max": 978.6357315387446
+  },
+  {
+   "fid": 36,
+   "osm_id": 1076806154,
+   "type": "road",
+   "highway": "primary",
+   "z_min": 970.6856421715746,
+   "z_max": 975.5507009163307
+  },
+  {
+   "fid": 37,
+   "osm_id": 1076806155,
+   "type": "road",
+   "name": "Salagame Road",
+   "highway": "primary",
+   "z_min": 970.7034478559185,
+   "z_max": 976.3293803377414
+  },
+  {
+   "fid": 38,
+   "osm_id": 1202485716,
+   "type": "road",
+   "highway": "service",
+   "z_min": 971.0208676539432,
+   "z_max": 973.2843172705162
+  },
+  {
+   "fid": 39,
+   "osm_id": 1202485717,
+   "type": "road",
+   "highway": "service",
+   "z_min": 971.9491070502322,
+   "z_max": 980.2659387381218
+  },
+  {
+   "fid": 40,
+   "osm_id": 1202485720,
+   "type": "road",
+   "highway": "service",
+   "z_min": 971.851329675309,
+   "z_max": 975.2606572720446
+  },
+  {
+   "fid": 41,
+   "osm_id": 1202485721,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.7838480791097,
+   "z_max": 979.4111793635182
+  },
+  {
+   "fid": 42,
+   "osm_id": 1208484413,
+   "type": "road",
+   "highway": "service",
+   "z_min": 966.7541313125379,
+   "z_max": 979.3751239647269
+  },
+  {
+   "fid": 43,
+   "osm_id": 1211751382,
+   "type": "road",
+   "highway": "service",
+   "z_min": 974.670089389742,
+   "z_max": 979.1818806493329
+  },
+  {
+   "fid": 44,
+   "osm_id": 1219059791,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.5764848832785,
+   "z_max": 973.0673263905612
+  },
+  {
+   "fid": 45,
+   "osm_id": 1219059792,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.6835446473982,
+   "z_max": 973.2735813826746
+  },
+  {
+   "fid": 46,
+   "osm_id": 1219059793,
+   "type": "road",
+   "highway": "service",
+   "z_min": 972.9576484438107,
+   "z_max": 973.8128128482065
+  },
+  {
+   "fid": 47,
+   "osm_id": 3426970437,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.5,
+   "z_min": 977.6240683010492,
+   "z_max": 987.1240683010492
+  },
+  {
+   "fid": 48,
+   "osm_id": 3428850761,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.4,
+   "z_min": 974.9752032941904,
+   "z_max": 985.3752032941903
+  },
+  {
+   "fid": 49,
+   "osm_id": 3428850762,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 15.3,
+   "z_min": 974.1239929765859,
+   "z_max": 989.4239929765859
+  },
+  {
+   "fid": 50,
+   "osm_id": 3428850763,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.1,
+   "z_min": 977.0889463816504,
+   "z_max": 985.1889463816505
+  },
+  {
+   "fid": 51,
+   "osm_id": 3428850764,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13,
+   "z_min": 979.5791654445756,
+   "z_max": 992.5791654445756
+  },
+  {
+   "fid": 52,
+   "osm_id": 3428850766,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 11.2,
+   "z_min": 976.799080568841,
+   "z_max": 987.999080568841
+  },
+  {
+   "fid": 53,
+   "osm_id": 3428850767,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 11.1,
+   "z_min": 977.5825744215822,
+   "z_max": 988.6825744215822
+  },
+  {
+   "fid": 54,
+   "osm_id": 3428850768,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12,
+   "z_min": 974.0828621684902,
+   "z_max": 986.0828621684902
+  },
+  {
+   "fid": 55,
+   "osm_id": 3428850769,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.4,
+   "z_min": 975.0996489650272,
+   "z_max": 984.4996489650272
+  },
+  {
+   "fid": 56,
+   "osm_id": 3428850772,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.5,
+   "z_min": 974.7652424653312,
+   "z_max": 987.2652424653312
+  },
+  {
+   "fid": 57,
+   "osm_id": 3428850775,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.1,
+   "z_min": 973.9394749560353,
+   "z_max": 986.0394749560353
+  },
+  {
+   "fid": 58,
+   "osm_id": 3428850777,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 15.8,
+   "z_min": 975.4328614325342,
+   "z_max": 991.2328614325342
+  },
+  {
+   "fid": 59,
+   "osm_id": 3428850779,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.3,
+   "z_min": 974.6366122873529,
+   "z_max": 981.9366122873529
+  },
+  {
+   "fid": 60,
+   "osm_id": 3428850782,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.2,
+   "z_min": 974.9790678237848,
+   "z_max": 983.1790678237849
+  },
+  {
+   "fid": 61,
+   "osm_id": 3428850784,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 11.2,
+   "z_min": 974.9753868765177,
+   "z_max": 986.1753868765178
+  },
+  {
+   "fid": 62,
+   "osm_id": 3428850785,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 15.3,
+   "z_min": 977.9899562962883,
+   "z_max": 993.2899562962882
+  },
+  {
+   "fid": 63,
+   "osm_id": 3917644368,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 14.5,
+   "z_min": 976.5960868886275,
+   "z_max": 991.0960868886275
+  },
+  {
+   "fid": 64,
+   "osm_id": 3917644370,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.5,
+   "z_min": 976.0263320131709,
+   "z_max": 985.5263320131709
+  },
+  {
+   "fid": 65,
+   "osm_id": 3917644377,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.3,
+   "z_min": 975.410641455859,
+   "z_max": 985.710641455859
+  },
+  {
+   "fid": 66,
+   "osm_id": 3917644383,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13.1,
+   "z_min": 974.920731754766,
+   "z_max": 988.0207317547661
+  },
+  {
+   "fid": 67,
+   "osm_id": 3917644384,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 6.8,
+   "z_min": 972.3622720668097,
+   "z_max": 979.1622720668097
+  },
+  {
+   "fid": 68,
+   "osm_id": 3917644390,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13.9,
+   "z_min": 974.2587597887645,
+   "z_max": 988.1587597887644
+  },
+  {
+   "fid": 69,
+   "osm_id": 3917644391,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 11,
+   "z_min": 974.631670325735,
+   "z_max": 985.631670325735
+  },
+  {
+   "fid": 70,
+   "osm_id": 3917644399,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 10.5,
+   "z_min": 972.5079155702247,
+   "z_max": 983.0079155702247
+  },
+  {
+   "fid": 71,
+   "osm_id": 3917644403,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.3,
+   "z_min": 975.2673398149658,
+   "z_max": 983.5673398149657
+  },
+  {
+   "fid": 72,
+   "osm_id": 3917644407,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 16.1,
+   "z_min": 974.5177937211321,
+   "z_max": 990.6177937211321
+  },
+  {
+   "fid": 73,
+   "osm_id": 3917644413,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.6,
+   "z_min": 975.3546338794893,
+   "z_max": 989.9546338794893
+  },
+  {
+   "fid": 74,
+   "osm_id": 3917644418,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.3,
+   "z_min": 979.2632512030793,
+   "z_max": 988.5632512030793
+  },
+  {
+   "fid": 75,
+   "osm_id": 3917644419,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.5,
+   "z_min": 977.53094077742,
+   "z_max": 986.03094077742
+  },
+  {
+   "fid": 76,
+   "osm_id": 3917644423,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.2,
+   "z_min": 977.3059747328373,
+   "z_max": 988.5059747328373
+  },
+  {
+   "fid": 77,
+   "osm_id": 3917644427,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 13.7,
+   "z_min": 972.4428365376995,
+   "z_max": 986.1428365376995
+  },
+  {
+   "fid": 78,
+   "osm_id": 3917644428,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 16,
+   "z_min": 977.096390413637,
+   "z_max": 993.096390413637
+  },
+  {
+   "fid": 79,
+   "osm_id": 3917644430,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.6,
+   "z_min": 979.2670508300806,
+   "z_max": 989.8670508300806
+  },
+  {
+   "fid": 80,
+   "osm_id": 3917644431,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.7,
+   "z_min": 976.2594343661194,
+   "z_max": 983.9594343661195
+  },
+  {
+   "fid": 81,
+   "osm_id": 3917644434,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 10.9,
+   "z_min": 976.580344252813,
+   "z_max": 987.480344252813
+  },
+  {
+   "fid": 82,
+   "osm_id": 3917644439,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17,
+   "z_min": 980.562098220464,
+   "z_max": 997.562098220464
+  },
+  {
+   "fid": 83,
+   "osm_id": 3917644449,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.3,
+   "z_min": 978.6146670212324,
+   "z_max": 985.9146670212324
+  },
+  {
+   "fid": 84,
+   "osm_id": 3917644455,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 10.3,
+   "z_min": 977.7945462659923,
+   "z_max": 988.0945462659922
+  },
+  {
+   "fid": 85,
+   "osm_id": 3917644456,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.9,
+   "z_min": 972.0727743557472,
+   "z_max": 981.9727743557472
+  },
+  {
+   "fid": 86,
+   "osm_id": 3917644860,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.9,
+   "z_min": 977.4999037710484,
+   "z_max": 985.3999037710483
+  },
+  {
+   "fid": 87,
+   "osm_id": 3917644861,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.1,
+   "z_min": 977.4716444440694,
+   "z_max": 984.5716444440694
+  },
+  {
+   "fid": 88,
+   "osm_id": 3917644864,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9,
+   "z_min": 977.3548835770077,
+   "z_max": 986.3548835770077
+  },
+  {
+   "fid": 89,
+   "osm_id": 3917644868,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13.5,
+   "z_min": 981.5415113868146,
+   "z_max": 995.0415113868146
+  },
+  {
+   "fid": 90,
+   "osm_id": 3917644869,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17.9,
+   "z_min": 976.5936120059106,
+   "z_max": 994.4936120059106
+  },
+  {
+   "fid": 91,
+   "osm_id": 3917644872,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 12.7,
+   "z_min": 978.036673505856,
+   "z_max": 990.7366735058561
+  },
+  {
+   "fid": 92,
+   "osm_id": 3917644874,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.2,
+   "z_min": 979.493302730127,
+   "z_max": 988.693302730127
+  },
+  {
+   "fid": 93,
+   "osm_id": 3917644875,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.6,
+   "z_min": 978.366170663789,
+   "z_max": 988.9661706637891
+  },
+  {
+   "fid": 94,
+   "osm_id": 3917644878,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 12.7,
+   "z_min": 978.5700398850504,
+   "z_max": 991.2700398850504
+  },
+  {
+   "fid": 95,
+   "osm_id": 3917644879,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.2,
+   "z_min": 976.6738993134848,
+   "z_max": 987.8738993134848
+  },
+  {
+   "fid": 96,
+   "osm_id": 3917644880,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 15,
+   "z_min": 977.1936824674567,
+   "z_max": 992.1936824674567
+  },
+  {
+   "fid": 97,
+   "osm_id": 3917644884,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 13.5,
+   "z_min": 979.7217720498909,
+   "z_max": 993.2217720498909
+  },
+  {
+   "fid": 98,
+   "osm_id": 3917644886,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 13.7,
+   "z_min": 976.5808924490677,
+   "z_max": 990.2808924490678
+  },
+  {
+   "fid": 99,
+   "osm_id": 3917644888,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.3,
+   "z_min": 978.5452863440336,
+   "z_max": 988.8452863440335
+  },
+  {
+   "fid": 100,
+   "osm_id": 3917644889,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 13.4,
+   "z_min": 977.5064791803716,
+   "z_max": 990.9064791803715
+  },
+  {
+   "fid": 101,
+   "osm_id": 3917644892,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.1,
+   "z_min": 973.0144342232497,
+   "z_max": 985.1144342232498
+  },
+  {
+   "fid": 102,
+   "osm_id": 3917644895,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.8,
+   "z_min": 980.3329865426035,
+   "z_max": 990.1329865426035
+  },
+  {
+   "fid": 103,
+   "osm_id": 3917644896,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13.5,
+   "z_min": 976.7509065363719,
+   "z_max": 990.2509065363719
+  },
+  {
+   "fid": 104,
+   "osm_id": 3917644897,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.4,
+   "z_min": 976.936386768296,
+   "z_max": 987.3363867682959
+  },
+  {
+   "fid": 105,
+   "osm_id": 3917644898,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.8,
+   "z_min": 977.9050502904473,
+   "z_max": 992.7050502904473
+  },
+  {
+   "fid": 106,
+   "osm_id": 3917644902,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.4,
+   "z_min": 977.792314418617,
+   "z_max": 989.192314418617
+  },
+  {
+   "fid": 107,
+   "osm_id": 3917644903,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 14.3,
+   "z_min": 979.7890206808445,
+   "z_max": 994.0890206808444
+  },
+  {
+   "fid": 108,
+   "osm_id": 3917644904,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 15.4,
+   "z_min": 974.3873901246137,
+   "z_max": 989.7873901246137
+  },
+  {
+   "fid": 109,
+   "osm_id": 3917644913,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.6,
+   "z_min": 979.4868086903563,
+   "z_max": 991.0868086903563
+  },
+  {
+   "fid": 110,
+   "osm_id": 3917644914,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.5,
+   "z_min": 975.2707322640383,
+   "z_max": 987.7707322640383
+  },
+  {
+   "fid": 111,
+   "osm_id": 3917644915,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 6.8,
+   "z_min": 978.4617485148239,
+   "z_max": 985.2617485148238
+  },
+  {
+   "fid": 112,
+   "osm_id": 3917644917,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.3,
+   "z_min": 976.8647320505871,
+   "z_max": 986.1647320505871
+  },
+  {
+   "fid": 113,
+   "osm_id": 3917644920,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17.9,
+   "z_min": 978.470799743765,
+   "z_max": 996.370799743765
+  },
+  {
+   "fid": 114,
+   "osm_id": 3917644921,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.9,
+   "z_min": 977.4814339257262,
+   "z_max": 985.3814339257261
+  },
+  {
+   "fid": 115,
+   "osm_id": 3917644923,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.4,
+   "z_min": 977.6397477125565,
+   "z_max": 986.0397477125565
+  },
+  {
+   "fid": 116,
+   "osm_id": 3917644925,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 11,
+   "z_min": 977.078403802409,
+   "z_max": 988.078403802409
+  },
+  {
+   "fid": 117,
+   "osm_id": 3917644928,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17.3,
+   "z_min": 977.7721032313166,
+   "z_max": 995.0721032313165
+  },
+  {
+   "fid": 118,
+   "osm_id": 3917644929,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17.6,
+   "z_min": 975.9729194363211,
+   "z_max": 993.5729194363212
+  },
+  {
+   "fid": 119,
+   "osm_id": 3917644930,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.6,
+   "z_min": 976.7758782949866,
+   "z_max": 984.3758782949866
+  },
+  {
+   "fid": 120,
+   "osm_id": 3917644932,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.6,
+   "z_min": 977.763916758761,
+   "z_max": 985.363916758761
+  },
+  {
+   "fid": 121,
+   "osm_id": 3917644933,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 15.3,
+   "z_min": 978.2358450153392,
+   "z_max": 993.5358450153392
+  },
+  {
+   "fid": 122,
+   "osm_id": 3917644934,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.5,
+   "z_min": 974.6036636982653,
+   "z_max": 987.1036636982653
+  },
+  {
+   "fid": 123,
+   "osm_id": 3917644935,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 6.8,
+   "z_min": 974.1684714189196,
+   "z_max": 980.9684714189195
+  },
+  {
+   "fid": 124,
+   "osm_id": 3917644936,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.4,
+   "z_min": 977.4186944458036,
+   "z_max": 991.8186944458035
+  },
+  {
+   "fid": 125,
+   "osm_id": 3917644937,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.3,
+   "z_min": 974.5317994104068,
+   "z_max": 983.8317994104068
+  },
+  {
+   "fid": 126,
+   "osm_id": 3917644938,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.3,
+   "z_min": 977.0949439871172,
+   "z_max": 984.3949439871171
+  },
+  {
+   "fid": 127,
+   "osm_id": 3917644939,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.6,
+   "z_min": 977.7505100414984,
+   "z_max": 985.3505100414984
+  },
+  {
+   "fid": 128,
+   "osm_id": 3917644940,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17,
+   "z_min": 975.7025194231035,
+   "z_max": 992.7025194231035
+  },
+  {
+   "fid": 129,
+   "osm_id": 3917644941,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 14.5,
+   "z_min": 976.0773882758051,
+   "z_max": 990.5773882758051
+  },
+  {
+   "fid": 130,
+   "osm_id": 3917644942,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 16.2,
+   "z_min": 977.0984462282554,
+   "z_max": 993.2984462282554
+  },
+  {
+   "fid": 131,
+   "osm_id": 3917644943,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 12.5,
+   "z_min": 977.8051425896232,
+   "z_max": 990.3051425896232
+  },
+  {
+   "fid": 132,
+   "osm_id": 3917644944,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.2,
+   "z_min": 976.9239005241097,
+   "z_max": 985.1239005241098
+  },
+  {
+   "fid": 133,
+   "osm_id": 3917644945,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.6,
+   "z_min": 975.9927672812312,
+   "z_max": 990.5927672812312
+  },
+  {
+   "fid": 134,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4.5,
+   "z_min": 970.7125776940616,
+   "z_max": 975.2125776940616
+  },
+  {
+   "fid": 135,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.5,
+   "z_min": 970.4891341235418,
+   "z_max": 984.9891341235418
+  },
+  {
+   "fid": 136,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 12,
+   "z_min": 971.2351927683696,
+   "z_max": 983.2351927683696
+  },
+  {
+   "fid": 137,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 16.5,
+   "z_min": 971.4174113096769,
+   "z_max": 987.9174113096769
+  },
+  {
+   "fid": 138,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.3,
+   "z_min": 973.6618407204951,
+   "z_max": 984.961840720495
+  },
+  {
+   "fid": 139,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.7,
+   "z_min": 973.2075509087714,
+   "z_max": 987.9075509087714
+  },
+  {
+   "fid": 140,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12,
+   "z_min": 971.6802183475244,
+   "z_max": 983.6802183475244
+  },
+  {
+   "fid": 141,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13,
+   "z_min": 974.3100890586702,
+   "z_max": 987.3100890586702
+  },
+  {
+   "fid": 142,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 6.1,
+   "z_min": 974.1517425017852,
+   "z_max": 980.2517425017852
+  },
+  {
+   "fid": 143,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4.7,
+   "z_min": 973.505710329689,
+   "z_max": 978.205710329689
+  },
+  {
+   "fid": 144,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.9,
+   "z_min": 975.037808493853,
+   "z_max": 985.937808493853
+  },
+  {
+   "fid": 145,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.1,
+   "z_min": 974.545207660801,
+   "z_max": 983.645207660801
+  },
+  {
+   "fid": 146,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7,
+   "z_min": 974.0040916773754,
+   "z_max": 981.0040916773754
+  },
+  {
+   "fid": 147,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 14.3,
+   "z_min": 974.323598300487,
+   "z_max": 988.623598300487
+  },
+  {
+   "fid": 148,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.3,
+   "z_min": 974.5134795541038,
+   "z_max": 982.8134795541038
+  },
+  {
+   "fid": 149,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.8,
+   "z_min": 975.6584452945027,
+   "z_max": 985.4584452945027
+  },
+  {
+   "fid": 150,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 11.4,
+   "z_min": 976.400691358038,
+   "z_max": 987.800691358038
+  },
+  {
+   "fid": 151,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 14.7,
+   "z_min": 976.1925614820468,
+   "z_max": 990.8925614820469
+  },
+  {
+   "fid": 152,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 11.5,
+   "z_min": 975.7594110296359,
+   "z_max": 987.2594110296359
+  },
+  {
+   "fid": 153,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.4,
+   "z_min": 975.5134334721691,
+   "z_max": 984.9134334721691
+  },
+  {
+   "fid": 154,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.8,
+   "z_min": 976.568308250455,
+   "z_max": 985.3683082504549
+  },
+  {
+   "fid": 155,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.2,
+   "z_min": 976.4507178715467,
+   "z_max": 983.6507178715467
+  },
+  {
+   "fid": 156,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4.1,
+   "z_min": 976.6000519975225,
+   "z_max": 980.7000519975226
+  },
+  {
+   "fid": 157,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7.5,
+   "z_min": 976.6680483173253,
+   "z_max": 984.1680483173253
+  },
+  {
+   "fid": 158,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 6.2,
+   "z_min": 976.3133700121907,
+   "z_max": 982.5133700121908
+  },
+  {
+   "fid": 159,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.5,
+   "z_min": 975.754465432286,
+   "z_max": 986.254465432286
+  },
+  {
+   "fid": 160,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4,
+   "z_min": 977.0012045353016,
+   "z_max": 981.0012045353016
+  },
+  {
+   "fid": 161,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 16.6,
+   "z_min": 977.4432298961303,
+   "z_max": 994.0432298961304
+  },
+  {
+   "fid": 162,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 17.8,
+   "z_min": 977.344170036449,
+   "z_max": 995.1441700364489
+  },
+  {
+   "fid": 163,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 16,
+   "z_min": 976.158616402294,
+   "z_max": 992.158616402294
+  },
+  {
+   "fid": 164,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13.5,
+   "z_min": 976.2292021819735,
+   "z_max": 989.7292021819735
+  },
+  {
+   "fid": 165,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 7,
+   "z_min": 976.5126741687524,
+   "z_max": 983.5126741687524
+  },
+  {
+   "fid": 166,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.9,
+   "z_min": 980.1453748834019,
+   "z_max": 993.0453748834019
+  },
+  {
+   "fid": 167,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.9,
+   "z_min": 977.6911860657156,
+   "z_max": 989.5911860657155
+  },
+  {
+   "fid": 168,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.7,
+   "z_min": 980.8211917272121,
+   "z_max": 990.5211917272121
+  },
+  {
+   "fid": 169,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4.6,
+   "z_min": 980.7301175735121,
+   "z_max": 985.3301175735121
+  },
+  {
+   "fid": 170,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 15.1,
+   "z_min": 977.6390063643771,
+   "z_max": 992.7390063643771
+  },
+  {
+   "fid": 171,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.2,
+   "z_min": 979.1252548212452,
+   "z_max": 989.3252548212453
+  },
+  {
+   "fid": 172,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 5.3,
+   "z_min": 979.7590562551608,
+   "z_max": 985.0590562551607
+  },
+  {
+   "fid": 173,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.3,
+   "z_min": 981.441851401464,
+   "z_max": 989.7418514014639
+  },
+  {
+   "fid": 174,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 12.6,
+   "z_min": 982.8203107217307,
+   "z_max": 995.4203107217307
+  },
+  {
+   "fid": 175,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 14.9,
+   "z_min": 983.3830563586736,
+   "z_max": 998.2830563586735
+  },
+  {
+   "fid": 176,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 5,
+   "z_min": 981.8476531794762,
+   "z_max": 986.8476531794762
+  },
+  {
+   "fid": 177,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 14.9,
+   "z_min": 980.7647683538654,
+   "z_max": 995.6647683538654
+  },
+  {
+   "fid": 178,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9,
+   "z_min": 979.1791695531034,
+   "z_max": 988.1791695531034
+  },
+  {
+   "fid": 179,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 13.8,
+   "z_min": 979.1083945031521,
+   "z_max": 992.9083945031521
+  },
+  {
+   "fid": 180,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 15.1,
+   "z_min": 976.4064990605593,
+   "z_max": 991.5064990605593
+  },
+  {
+   "fid": 181,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4.5,
+   "z_min": 977.13110974051,
+   "z_max": 981.63110974051
+  },
+  {
+   "fid": 182,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 4.7,
+   "z_min": 978.235111675685,
+   "z_max": 982.935111675685
+  },
+  {
+   "fid": 183,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.9,
+   "z_min": 980.7175345785757,
+   "z_max": 989.6175345785757
+  },
+  {
+   "fid": 184,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 15.3,
+   "z_min": 981.5106772749682,
+   "z_max": 996.8106772749682
+  },
+  {
+   "fid": 185,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "bush",
+   "height": 5.3,
+   "z_min": 982.9670880691767,
+   "z_max": 988.2670880691767
+  },
+  {
+   "fid": 186,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8,
+   "z_min": 982.1257218472506,
+   "z_max": 990.1257218472506
+  },
+  {
+   "fid": 187,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 9.7,
+   "z_min": 981.504401727473,
+   "z_max": 991.204401727473
+  },
+  {
+   "fid": 188,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 10.7,
+   "z_min": 975.9127340751609,
+   "z_max": 986.6127340751609
+  },
+  {
+   "fid": 189,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 15,
+   "z_min": 979.0243420877605,
+   "z_max": 994.0243420877605
+  },
+  {
+   "fid": 190,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "broadleaf",
+   "height": 8.8,
+   "z_min": 979.3937834038243,
+   "z_max": 988.1937834038242
+  },
+  {
+   "fid": 191,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 15.3,
+   "z_min": 982.0311759022188,
+   "z_max": 997.3311759022188
+  },
+  {
+   "fid": 192,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "conifer",
+   "height": 11.2,
+   "z_min": 982.4380683875378,
+   "z_max": 993.6380683875378
+  },
+  {
+   "fid": 193,
+   "osm_id": 0,
+   "type": "tree",
+   "kind": "poplar",
+   "height": 15.5,
+   "z_min": 980.3011915897973,
+   "z_max": 995.8011915897973
+  },
+  {
+   "fid": 194,
+   "osm_id": 3918619730,
+   "type": "furniture",
+   "kind": "bus_stop",
+   "z_min": 972.9391799548632
+  },
+  {
+   "fid": 195,
+   "osm_id": 3821331142,
+   "type": "structure",
+   "kind": "tower",
+   "height": 30,
+   "z_min": 976.4548765248028,
+   "z_max": 1006.4548765248028
+  },
+  {
+   "fid": 196,
+   "osm_id": 1208484410,
+   "type": "pitch"
+  },
+  {
+   "fid": 197,
+   "osm_id": 1211751383,
+   "type": "pitch",
+   "kind": "basketball"
+  },
+  {
+   "fid": 198,
+   "osm_id": 1202485724,
+   "type": "pool"
+  }
+ ]
+}

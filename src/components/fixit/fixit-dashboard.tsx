@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { useNavigate } from "@tanstack/react-router";
+import { useNavigate, Link } from "@tanstack/react-router";
 import {
   AlertCircle,
   CheckCircle2,
@@ -164,6 +164,7 @@ export function FixItDashboard({ role }: FixItDashboardProps) {
     { id: "notice", label: "Notice Hub", icon: Megaphone },
     { id: "docdesk", label: "DocDesk", icon: FileText },
     { id: "fixit", label: "FixIt", icon: Wrench, active: true },
+    { id: "campus3d", label: "3D Campus", icon: Presentation },
     { id: "profile", label: "Profile", icon: User },
   ];
 
@@ -185,6 +186,10 @@ export function FixItDashboard({ role }: FixItDashboardProps) {
                 type="button"
                 onClick={() => {
                   setActiveNav(id);
+                  if (id === "campus3d") {
+                    navigate({ to: "/campus3d" });
+                    return;
+                  }
                   if (id !== "fixit") {
                     toast.info(`${label} is simulated for CampusOS navigation.`);
                   }
